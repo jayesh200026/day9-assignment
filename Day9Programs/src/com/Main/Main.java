@@ -1,17 +1,16 @@
 package com.Main;
 
+import com.JUnit.Binary;
+import com.JUnit.DayOfWeek;
+import com.JUnit.MonthlyPayment;
+import com.JUnit.TempratureConversion;
+import com.JUnit.ToBinary;
+import com.JUnit.VendingMachine;
 import com.Logical.Fibonacci;
 import com.Logical.PerfectNumber;
 import com.Logical.PrimeNumber;
 import com.Logical.ReverseNumber;
 import com.Logical.StopWatch;
-
-import JUnit.Binary;
-import JUnit.DayOfWeek;
-import JUnit.MonthlyPayment;
-import JUnit.TempratureConversion;
-import JUnit.ToBinary;
-import JUnit.VendingMachine;
 
 public class Main {
 
@@ -26,7 +25,7 @@ public class Main {
 		//TempratureConversion.tempConversion();
 		//MonthlyPayment .monthpay(args);
 		//ToBinary.toBinary();
-		Binary.nibble();
+		//Binary.nibble();
 
 	}
 
