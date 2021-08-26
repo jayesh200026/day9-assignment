@@ -20,14 +20,14 @@ public class Main {
 		//PerfectNumber.perfectNumber();
 		//PrimeNumber.primeNumber();
 		//ReverseNumber.reverseNumber();
-		//StopWatch.stopWatch();
+		StopWatch.stopWatch();
 		//VendingMachine.vendingMachine();
 		//DayOfWeek.dayOfWeek(args);
 		//TempratureConversion.tempConversion();
 		//MonthlyPayment .monthpay(args);
 		//ToBinary.toBinary();
 		//Binary.nibble();
-		NewtonsSqrt.sqrt();
+		//NewtonsSqrt.sqrt();
 
 	}
 
