@@ -3,6 +3,7 @@ package com.Main;
 import com.JUnit.Binary;
 import com.JUnit.DayOfWeek;
 import com.JUnit.MonthlyPayment;
+import com.JUnit.NewtonsSqrt;
 import com.JUnit.TempratureConversion;
 import com.JUnit.ToBinary;
 import com.JUnit.VendingMachine;
@@ -26,6 +27,7 @@ public class Main {
 		//MonthlyPayment .monthpay(args);
 		//ToBinary.toBinary();
 		//Binary.nibble();
+		NewtonsSqrt.sqrt();
 
 	}
 
