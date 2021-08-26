@@ -10,10 +10,12 @@ public class Binary {
 		String bits=toBinary(num);
 		if(bits.length()!=8)
 		{
-			for(int i=0;i<8-bits.length();i++)
+			int len=bits.length();
+			for(int i=0;i<8-len;i++)
 			{
 				bits="0"+bits;
 			}
+			
 			System.out.println("after padding "+bits);
 		}
 		String nibble1=bits.substring(0, 4);
